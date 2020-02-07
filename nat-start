@@ -6,4 +6,4 @@ ip addr add 192.168.99.1/24 dev eth0
 iptables -I INPUT -i eth0 -m state --state NEW -j ACCEPT
 iptables -I FORWARD -i eth0 -o ppp0 -j ACCEPT
 sleep 5
-/jffs/softcenter/koolproxyR/koolproxy -d
+/jffs/softcenter/bin/softcenter-net.sh
