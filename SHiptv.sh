@@ -6,9 +6,9 @@ echo This script is only applicable to merlin modified firmware, please do not r
 ping 127.0.0.1 -c 2 > /dev/null
 echo This prompt is kept for 10 seconds. If you are not merlin to update the firmware, please press Ctrl + C to terminate this script immediately.
 ping 127.0.0.1 -c 10 > /dev/null
-echo This script applies to Shanghai Telecom's IPTV that requires AB certification. Please modify the script for other regions as required.
+#echo This script applies to Shanghai Telecom's IPTV that requires AB certification. Please modify the script for other regions as required.
 ping 127.0.0.1 -c 2 > /dev/null
-echo Please make sure the light cat has been set up before use
+#echo Please make sure the light cat has been set up before use
 ping 127.0.0.1 -c 2 > /dev/null
 #空行
 echo
