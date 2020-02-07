@@ -16,7 +16,7 @@ echo
 #Script prompt
 echo is increasing the IPTV startup self-startup script
 #Move to the script directory
-cd / jffs / scripts
+cd /jffs/scripts
 #Delete the previous script
 echo is deleting old files
 rm -rf wan-start*
