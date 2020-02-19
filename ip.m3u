@@ -1,0 +1,581 @@
+#EXTM3U
+#EXTINF:-1 tvg-name="VTV1 HD" tvg-logo="http://dl.dropboxusercontent.com/u/40215219/ICON_TV/VTV1_HD.png",VTV1 HD
+udp://@225.1.2.249:30120
+#EXTINF:-1 tvg-name="VTV1 HD" tvg-logo="http://dl.dropboxusercontent.com/u/40215219/ICON_TV/VTV1_HD.png",VTV1 HD
+udp://@225.1.2.248:30120
+#EXTINF:-1 tvg-name="VTV1" tvg-logo="http://dl.dropboxusercontent.com/u/40215219/ICON_TV/VTV1.png",VTV1
+udp://@225.1.1.250:30120
+#EXTINF:-1 tvg-name="VTV2" tvg-logo="http://dl.dropboxusercontent.com/u/40215219/ICON_TV/VTV2.png",VTV2
+udp://@225.1.1.106:30120
+#EXTINF:-1 tvg-name="VTV2" tvg-logo="http://dl.dropboxusercontent.com/u/40215219/ICON_TV/VTV2.png",VTV2
+udp://@225.1.1.249:30120
+#EXTINF:-1 tvg-name="VTV3 HD" tvg-logo="http://dl.dropboxusercontent.com/u/40215219/ICON_TV/VTV3_HD.png",VTV3 HD
+udp://@225.1.2.246:30120
+#EXTINF:-1 tvg-name="VTV3 HD" tvg-logo="http://dl.dropboxusercontent.com/u/40215219/ICON_TV/VTV3_HD.png",VTV3 HD
+udp://@225.1.2.247:30120
+#EXTINF:-1 tvg-name="VTV4" tvg-logo="http://dl.dropboxusercontent.com/u/40215219/ICON_TV/VTV4.png",VTV4
+udp://@225.1.1.248:30120
+#EXTINF:-1 tvg-name="VTV5" tvg-logo="http://dl.dropboxusercontent.com/u/40215219/ICON_TV/VTV5.png",VTV5
+udp://@225.1.1.247:30120
+#EXTINF:-1 tvg-name="VTV6" tvg-logo="http://dl.dropboxusercontent.com/u/40215219/ICON_TV/VTV6.png",VTV6
+udp://@225.1.1.246:30120
+#EXTINF:-1 tvg-name="VTV6" tvg-logo="http://dl.dropboxusercontent.com/u/40215219/ICON_TV/VTV6.png",VTV6
+udp://@225.1.2.167:30120
+#EXTINF:-1 tvg-name="VTV6 HD" tvg-logo="http://dl.dropboxusercontent.com/u/40215219/ICON_TV/VTV6_HD.png",VTV6 HD
+udp://@225.1.2.244:30120
+#EXTINF:-1 tvg-name="VTV8 HD" tvg-logo="http://dl.dropboxusercontent.com/u/40215219/ICON_TV/VTV8_HD.png",VTV8 HD
+udp://@225.1.2.142:30120
+#EXTINF:-1 tvg-name="VTV8 HD" tvg-logo="http://dl.dropboxusercontent.com/u/40215219/ICON_TV/VTV8_HD.png",VTV8 HD
+udp://@225.1.2.166:30120
+#EXTINF:-1 tvg-name="VTV9" tvg-logo="http://dl.dropboxusercontent.com/u/40215219/ICON_TV/VTV9.png",VTV9
+udp://@225.1.1.153:30120
+#EXTINF:-1 tvg-name="BONGDA TV" tvg-logo="http://dl.dropboxusercontent.com/u/40215219/ICON_TV/BONGDA_TV.png",BONGDA TV
+udp://@225.1.2.160:30120
+#EXTINF:-1 tvg-name="BONGDA TV HD" tvg-logo="http://dl.dropboxusercontent.com/u/40215219/ICON_TV/BONGDA_TV_HD.png",BONGDA TV HD
+udp://@225.1.2.242:30120
+#EXTINF:-1 tvg-name="BONGDA TV HD" tvg-logo="http://dl.dropboxusercontent.com/u/40215219/ICON_TV/BONGDA_TV_HD.png",BONGDA TV HD
+udp://@225.1.2.243:30120
+#EXTINF:-1 tvg-name="FOX 2 HD" tvg-logo="http://dl.dropboxusercontent.com/u/40215219/ICON_TV/FOX_2_HD.png",FOX 2 HD
+udp://@225.1.1.108:30120
+#EXTINF:-1 tvg-name="FOX SPORT" tvg-logo="http://dl.dropboxusercontent.com/u/40215219/ICON_TV/FOX_SPORT.png",FOX SPORT
+udp://@225.1.1.239:30120
+#EXTINF:-1 tvg-name="FOX SPORT 2" tvg-logo="http://dl.dropboxusercontent.com/u/40215219/ICON_TV/FOX_SPORT_2.png",FOX SPORT 2
+udp://@225.1.1.241:30120
+#EXTINF:-1 tvg-name="Fox2-HD" tvg-logo="http://dl.dropboxusercontent.com/u/40215219/ICON_TV/Fox2-HD.png",Fox2-HD
+udp://@225.1.1.141:30120
+#EXTINF:-1 tvg-name="FOXSPORT HD" tvg-logo="http://dl.dropboxusercontent.com/u/40215219/ICON_TV/FOXSPORT_HD.png",FOXSPORT HD
+udp://@225.1.2.228:30120
+#EXTINF:-1 tvg-name="HTV THETHAO" tvg-logo="http://dl.dropboxusercontent.com/u/40215219/ICON_TV/HTV_THETHAO.png",HTV THETHAO
+udp://@225.1.1.165:30120
+#EXTINF:-1 tvg-name="THETHAO TV" tvg-logo="http://dl.dropboxusercontent.com/u/40215219/ICON_TV/THETHAO_TV.png",THETHAO TV
+udp://@225.1.2.158:30120
+#EXTINF:-1 tvg-name="THETHAO TV HD" tvg-logo="http://dl.dropboxusercontent.com/u/40215219/ICON_TV/THETHAO_TV_HD.png",THETHAO TV HD
+udp://@225.1.2.241:30120
+#EXTINF:-1 tvg-name="THETHAO TV HD" tvg-logo="http://dl.dropboxusercontent.com/u/40215219/ICON_TV/THETHAO_TV_HD.png",THETHAO TV HD
+udp://@225.1.2.240:30120
+#EXTINF:-1 tvg-name="VTC1" tvg-logo="http://dl.dropboxusercontent.com/u/40215219/ICON_TV/VTC1.png",VTC1
+udp://@225.1.2.203:30120
+#EXTINF:-1 tvg-name="VTC1 HD" tvg-logo="http://dl.dropboxusercontent.com/u/40215219/ICON_TV/VTC1_HD.png",VTC1 HD
+udp://@225.1.2.254:30120
+#EXTINF:-1 tvg-name="VTC2" tvg-logo="http://dl.dropboxusercontent.com/u/40215219/ICON_TV/VTC2.png",VTC2
+udp://@225.1.2.63:30120
+#EXTINF:-1 tvg-name="VTC2" tvg-logo="http://dl.dropboxusercontent.com/u/40215219/ICON_TV/VTC2.png",VTC2
+udp://@225.1.2.202:30120
+#EXTINF:-1 tvg-name="VTC3" tvg-logo="http://dl.dropboxusercontent.com/u/40215219/ICON_TV/VTC3.png",VTC3
+udp://@225.1.2.201:30120
+#EXTINF:-1 tvg-name="VTC3 HD" tvg-logo="http://dl.dropboxusercontent.com/u/40215219/ICON_TV/VTC3_HD.png",VTC3 HD
+udp://@225.1.2.251:30120
+#EXTINF:-1 tvg-name="VTC4" tvg-logo="http://dl.dropboxusercontent.com/u/40215219/ICON_TV/VTC4.png",VTC4
+udp://@225.1.2.64:30120
+#EXTINF:-1 tvg-name="VTC4-yeah1Family HD" tvg-logo="http://dl.dropboxusercontent.com/u/40215219/ICON_TV/VTC4-yeah1Family_HD.png",VTC4-yeah1Family HD
+udp://@225.1.2.200:30120
+#EXTINF:-1 tvg-name="VTC5" tvg-logo="http://dl.dropboxusercontent.com/u/40215219/ICON_TV/VTC5.png",VTC5
+udp://@225.1.2.65:30120
+#EXTINF:-1 tvg-name="VTC5-SOFA TV" tvg-logo="http://dl.dropboxusercontent.com/u/40215219/ICON_TV/VTC5-SOFA_TV.png",VTC5-SOFA TV
+udp://@225.1.2.199:30120
+#EXTINF:-1 tvg-name="VTC6" tvg-logo="http://dl.dropboxusercontent.com/u/40215219/ICON_TV/VTC6.png",VTC6
+udp://@225.1.2.66:30120
+#EXTINF:-1 tvg-name="VTC6" tvg-logo="http://dl.dropboxusercontent.com/u/40215219/ICON_TV/VTC6.png",VTC6
+udp://@225.1.2.198:30120
+#EXTINF:-1 tvg-name="VTC7" tvg-logo="http://dl.dropboxusercontent.com/u/40215219/ICON_TV/VTC7.png",VTC7
+udp://@225.1.2.67:30120
+#EXTINF:-1 tvg-name="VTC7-TODAYTV" tvg-logo="http://dl.dropboxusercontent.com/u/40215219/ICON_TV/VTC7-TODAYTV.png",VTC7-TODAYTV
+udp://@225.1.2.197:30120
+#EXTINF:-1 tvg-name="VTC7-TODAY TV" tvg-logo="http://dl.dropboxusercontent.com/u/40215219/ICON_TV/VTC7-TODAY_TV.png",VTC7-TODAY TV
+udp://@225.1.2.204:30120
+#EXTINF:-1 tvg-name="VTC8" tvg-logo="http://dl.dropboxusercontent.com/u/40215219/ICON_TV/VTC8.png",VTC8
+udp://@225.1.1.135:30120
+#EXTINF:-1 tvg-name="VTC8-VIEWTV" tvg-logo="http://dl.dropboxusercontent.com/u/40215219/ICON_TV/VTC8-VIEWTV.png",VTC8-VIEWTV
+udp://@225.1.2.196:30120
+#EXTINF:-1 tvg-name="VTC9" tvg-logo="http://dl.dropboxusercontent.com/u/40215219/ICON_TV/VTC9.png",VTC9
+udp://@225.1.1.21:30120
+#EXTINF:-1 tvg-name="VTC9-LET'S VIET" tvg-logo="http://dl.dropboxusercontent.com/u/40215219/ICON_TV/VTC9-LET'S_VIET.png",VTC9-LET'S VIET
+udp://@225.1.2.195:30120
+#EXTINF:-1 tvg-name="VTC10" tvg-logo="http://dl.dropboxusercontent.com/u/40215219/ICON_TV/VTC10.png",VTC10
+udp://@225.1.2.68:30120
+#EXTINF:-1 tvg-name="VTC10-NETVIET" tvg-logo="http://dl.dropboxusercontent.com/u/40215219/ICON_TV/VTC10-NETVIET.png",VTC10-NETVIET
+udp://@225.1.2.194:30120
+#EXTINF:-1 tvg-name="VTC11-KIDTV" tvg-logo="http://dl.dropboxusercontent.com/u/40215219/ICON_TV/VTC11-KIDTV.png",VTC11-KIDTV
+udp://@225.1.2.69:30120
+#EXTINF:-1 tvg-name="VTC12" tvg-logo="http://dl.dropboxusercontent.com/u/40215219/ICON_TV/VTC12.png",VTC12
+udp://@225.1.2.70:30120
+#EXTINF:-1 tvg-name="ITV HD" tvg-logo="http://dl.dropboxusercontent.com/u/40215219/ICON_TV/ITV_HD.png",ITV HD
+udp://@225.1.2.250:30120
+#EXTINF:-1 tvg-name="ITV-SD" tvg-logo="http://dl.dropboxusercontent.com/u/40215219/ICON_TV/ITV-SD.png",ITV-SD
+udp://@225.1.2.81:30120
+#EXTINF:-1 tvg-name="ITV-SD" tvg-logo="http://dl.dropboxusercontent.com/u/40215219/ICON_TV/ITV-SD.png",ITV-SD
+udp://@225.1.2.189:30120
+#EXTINF:-1 tvg-name="VTC14 HD" tvg-logo="http://dl.dropboxusercontent.com/u/40215219/ICON_TV/VTC14_HD.png",VTC14 HD
+udp://@225.1.2.88:30120
+#EXTINF:-1 tvg-name="VTC14" tvg-logo="http://dl.dropboxusercontent.com/u/40215219/ICON_TV/VTC14.png",VTC14
+udp://@225.1.2.191:30120
+#EXTINF:-1 tvg-name="VTC16" tvg-logo="http://dl.dropboxusercontent.com/u/40215219/ICON_TV/VTC16.png",VTC16
+udp://@225.1.2.101:30120
+#EXTINF:-1 tvg-name="VTC16" tvg-logo="http://dl.dropboxusercontent.com/u/40215219/ICON_TV/VTC16.png",VTC16
+udp://@225.1.2.190:30120
+#EXTINF:-1 tvg-name="VTVCab1-GIAITRI TV" tvg-logo="http://dl.dropboxusercontent.com/u/40215219/ICON_TV/VTVCab1-GIAITRI_TV.png",VTVCab1-GIAITRI TV
+udp://@225.1.2.150:30120
+#EXTINF:-1 tvg-name="VTVCAB1-GIAITRITV" tvg-logo="http://dl.dropboxusercontent.com/u/40215219/ICON_TV/VTVCAB1-GIAITRITV.png",VTVCAB1-GIAITRITV
+udp://@225.1.2.27:30120
+#EXTINF:-1 tvg-name="VTVCab2-PHIMVIET" tvg-logo="http://dl.dropboxusercontent.com/u/40215219/ICON_TV/VTVCab2-PHIMVIET.png",VTVCab2-PHIMVIET
+udp://@225.1.2.159:30120
+#EXTINF:-1 tvg-name="VTVCAB2-PHIMVIET" tvg-logo="http://dl.dropboxusercontent.com/u/40215219/ICON_TV/VTVCAB2-PHIMVIET.png",VTVCAB2-PHIMVIET
+udp://@225.1.2.28:30120
+#EXTINF:-1 tvg-name="VTVCAB4-VANHOA" tvg-logo="http://dl.dropboxusercontent.com/u/40215219/ICON_TV/VTVCAB4-VANHOA.png",VTVCAB4-VANHOA
+udp://@225.1.2.30:30120
+#EXTINF:-1 tvg-name="VTVCab4-VAN HOA" tvg-logo="http://dl.dropboxusercontent.com/u/40215219/ICON_TV/VTVCab4-VAN_HOA.png",VTVCab4-VAN HOA
+udp://@225.1.2.153:30120
+#EXTINF:-1 tvg-name="VTVCab5-E channel" tvg-logo="http://dl.dropboxusercontent.com/u/40215219/ICON_TV/VTVCab5-E_channel.png",VTVCab5-E channel
+udp://@225.1.2.156:30120
+#EXTINF:-1 tvg-name="VTVcab6-HAYTV" tvg-logo="http://dl.dropboxusercontent.com/u/40215219/ICON_TV/VTVcab6-HAYTV.png",VTVcab6-HAYTV
+udp://@225.1.1.254:30120
+#EXTINF:-1 tvg-name="VTVCab7-DRAMAS" tvg-logo="http://dl.dropboxusercontent.com/u/40215219/ICON_TV/VTVCab7-DRAMAS.png",VTVCab7-DRAMAS
+udp://@225.1.2.157:30120
+#EXTINF:-1 tvg-name="VTVCAB8-BIBI" tvg-logo="http://dl.dropboxusercontent.com/u/40215219/ICON_TV/VTVCAB8-BIBI.png",VTVCAB8-BIBI
+udp://@225.1.2.34:30120
+#EXTINF:-1 tvg-name="VTVCab8-BiBi" tvg-logo="http://dl.dropboxusercontent.com/u/40215219/ICON_TV/VTVCab8-BiBi.png",VTVCab8-BiBi
+udp://@225.1.2.161:30120
+#EXTINF:-1 tvg-name="VTVCab9-INFO TV" tvg-logo="http://dl.dropboxusercontent.com/u/40215219/ICON_TV/VTVCab9-INFO_TV.png",VTVCab9-INFO TV
+udp://@225.1.2.154:30120
+#EXTINF:-1 tvg-name="VTVCAB10-O2TV" tvg-logo="http://dl.dropboxusercontent.com/u/40215219/ICON_TV/VTVCAB10-O2TV.png",VTVCAB10-O2TV
+udp://@225.1.2.36:30120
+#EXTINF:-1 tvg-name="VTVCab10-O2TV" tvg-logo="http://dl.dropboxusercontent.com/u/40215219/ICON_TV/VTVCab10-O2TV.png",VTVCab10-O2TV
+udp://@225.1.2.152:30120
+#EXTINF:-1 tvg-name="VTVcab11" tvg-logo="http://dl.dropboxusercontent.com/u/40215219/ICON_TV/VTVcab11.png",VTVcab11
+udp://@225.1.1.252:30120
+#EXTINF:-1 tvg-name="VTVcab-Vfamily" tvg-logo="http://dl.dropboxusercontent.com/u/40215219/ICON_TV/VTVcab-Vfamily.png",VTVcab-Vfamily
+udp://@225.1.1.15:30120
+#EXTINF:-1 tvg-name="VTVCab12-StyleTV" tvg-logo="http://dl.dropboxusercontent.com/u/40215219/ICON_TV/VTVCab12-StyleTV.png",VTVCab12-StyleTV
+udp://@225.1.2.155:30120
+#EXTINF:-1 tvg-name="VTVcab13" tvg-logo="http://dl.dropboxusercontent.com/u/40215219/ICON_TV/VTVcab13.png",VTVcab13
+udp://@225.1.1.116:30120
+#EXTINF:-1 tvg-name="VTVcab13" tvg-logo="http://dl.dropboxusercontent.com/u/40215219/ICON_TV/VTVcab13.png",VTVcab13
+udp://@225.1.1.122:30120
+#EXTINF:-1 tvg-name="VTVcab14" tvg-logo="http://dl.dropboxusercontent.com/u/40215219/ICON_TV/VTVcab14.png",VTVcab14
+udp://@225.1.1.253:30120
+#EXTINF:-1 tvg-name="VTVCAB15" tvg-logo="http://dl.dropboxusercontent.com/u/40215219/ICON_TV/VTVCAB15.png",VTVCAB15
+udp://@225.1.1.251:30120
+#EXTINF:-1 tvg-name="VTVCab17-Yeah1TV" tvg-logo="http://dl.dropboxusercontent.com/u/40215219/ICON_TV/VTVCab17-Yeah1TV.png",VTVCab17-Yeah1TV
+udp://@225.1.2.151:30120
+#EXTINF:-1 tvg-name="HTV1-SD" tvg-logo="http://dl.dropboxusercontent.com/u/40215219/ICON_TV/HTV1-SD.png",HTV1-SD
+udp://@225.1.1.58:30120
+#EXTINF:-1 tvg-name="HTV1" tvg-logo="http://dl.dropboxusercontent.com/u/40215219/ICON_TV/HTV1.png",HTV1
+udp://@225.1.1.47:30120
+#EXTINF:-1 tvg-name="HTV1" tvg-logo="http://dl.dropboxusercontent.com/u/40215219/ICON_TV/HTV1.png",HTV1
+udp://@225.1.1.180:30120
+#EXTINF:-1 tvg-name="HTV2-SD" tvg-logo="http://dl.dropboxusercontent.com/u/40215219/ICON_TV/HTV2-SD.png",HTV2-SD
+udp://@225.1.1.16:30120
+#EXTINF:-1 tvg-name="HTV2" tvg-logo="http://dl.dropboxusercontent.com/u/40215219/ICON_TV/HTV2.png",HTV2
+udp://@225.1.1.179:30120
+#EXTINF:-1 tvg-name="HTV2-HD" tvg-logo="http://dl.dropboxusercontent.com/u/40215219/ICON_TV/HTV2-HD.png",HTV2-HD
+udp://@225.1.1.193:30120
+#EXTINF:-1 tvg-name="HTV3" tvg-logo="http://dl.dropboxusercontent.com/u/40215219/ICON_TV/HTV3.png",HTV3
+udp://@225.1.1.178:30120
+#EXTINF:-1 tvg-name="HTV4-SD" tvg-logo="http://dl.dropboxusercontent.com/u/40215219/ICON_TV/HTV4-SD.png",HTV4-SD
+udp://@225.1.1.59:30120
+#EXTINF:-1 tvg-name="HTV4" tvg-logo="http://dl.dropboxusercontent.com/u/40215219/ICON_TV/HTV4.png",HTV4
+udp://@225.1.1.177:30120
+#EXTINF:-1 tvg-name="HTV7" tvg-logo="http://dl.dropboxusercontent.com/u/40215219/ICON_TV/HTV7.png",HTV7
+udp://@225.1.1.176:30120
+#EXTINF:-1 tvg-name="HTV7-HD" tvg-logo="http://dl.dropboxusercontent.com/u/40215219/ICON_TV/HTV7-HD.png",HTV7-HD
+udp://@225.1.1.191:30120
+#EXTINF:-1 tvg-name="HTV7-HD" tvg-logo="http://dl.dropboxusercontent.com/u/40215219/ICON_TV/HTV7-HD.png",HTV7-HD
+udp://@225.1.1.192:30120
+#EXTINF:-1 tvg-name="HTV9" tvg-logo="http://dl.dropboxusercontent.com/u/40215219/ICON_TV/HTV9.png",HTV9
+udp://@225.1.1.175:30120
+#EXTINF:-1 tvg-name="HTV9-HD" tvg-logo="http://dl.dropboxusercontent.com/u/40215219/ICON_TV/HTV9-HD.png",HTV9-HD
+udp://@225.1.1.189:30120
+#EXTINF:-1 tvg-name="HTV9-HD" tvg-logo="http://dl.dropboxusercontent.com/u/40215219/ICON_TV/HTV9-HD.png",HTV9-HD
+udp://@225.1.1.190:30120
+#EXTINF:-1 tvg-name="HTVC-PN" tvg-logo="http://dl.dropboxusercontent.com/u/40215219/ICON_TV/HTVC-PN.png",HTVC-PN
+udp://@225.1.1.79:30120
+#EXTINF:-1 tvg-name="HTVC-PHU NU" tvg-logo="http://dl.dropboxusercontent.com/u/40215219/ICON_TV/HTVC-PHU_NU.png",HTVC-PHU NU
+udp://@225.1.1.171:30120
+#EXTINF:-1 tvg-name="HTVC-GIA DINH" tvg-logo="http://dl.dropboxusercontent.com/u/40215219/ICON_TV/HTVC-GIA_DINH.png",HTVC-GIA DINH
+udp://@225.1.1.83:30120
+#EXTINF:-1 tvg-name="HTVC-GIA DINH" tvg-logo="http://dl.dropboxusercontent.com/u/40215219/ICON_TV/HTVC-GIA_DINH.png",HTVC-GIA DINH
+udp://@225.1.1.170:30120
+#EXTINF:-1 tvg-name="HTVC-Thuan Viet" tvg-logo="http://dl.dropboxusercontent.com/u/40215219/ICON_TV/HTVC-Thuan_Viet.png",HTVC-Thuan Viet
+udp://@225.1.1.85:30120
+#EXTINF:-1 tvg-name="HTVC-Phim" tvg-logo="http://dl.dropboxusercontent.com/u/40215219/ICON_TV/HTVC-Phim.png",HTVC-Phim
+udp://@225.1.1.86:30120
+#EXTINF:-1 tvg-name="HTVC-PHIM" tvg-logo="http://dl.dropboxusercontent.com/u/40215219/ICON_TV/HTVC-PHIM.png",HTVC-PHIM
+udp://@225.1.1.87:30120
+#EXTINF:-1 tvg-name="HTVC-VGSSHOP" tvg-logo="http://dl.dropboxusercontent.com/u/40215219/ICON_TV/HTVC-VGSSHOP.png",HTVC-VGSSHOP
+udp://@225.1.1.172:30120
+#EXTINF:-1 tvg-name="HTVC-PHIM" tvg-logo="http://dl.dropboxusercontent.com/u/40215219/ICON_TV/HTVC-PHIM.png",HTVC-PHIM
+udp://@225.1.1.173:30120
+#EXTINF:-1 tvg-name="HTVC-THUAN VIET" tvg-logo="http://dl.dropboxusercontent.com/u/40215219/ICON_TV/HTVC-THUAN_VIET.png",HTVC-THUAN VIET
+udp://@225.1.1.174:30120
+#EXTINF:-1 tvg-name="THUANVIET HD" tvg-logo="http://dl.dropboxusercontent.com/u/40215219/ICON_TV/THUANVIET_HD.png",THUANVIET HD
+udp://@225.1.1.185:30120
+#EXTINF:-1 tvg-name="THUANVIET HD" tvg-logo="http://dl.dropboxusercontent.com/u/40215219/ICON_TV/THUANVIET_HD.png",THUANVIET HD
+udp://@225.1.1.186:30120
+#EXTINF:-1 tvg-name="HTVC-FILM HD" tvg-logo="http://dl.dropboxusercontent.com/u/40215219/ICON_TV/HTVC-FILM_HD.png",HTVC-FILM HD
+udp://@225.1.1.183:30120
+#EXTINF:-1 tvg-name="HTVC-FILM HD" tvg-logo="http://dl.dropboxusercontent.com/u/40215219/ICON_TV/HTVC-FILM_HD.png",HTVC-FILM HD
+udp://@225.1.1.184:30120
+#EXTINF:-1 tvg-name="HanoiCAB1" tvg-logo="http://dl.dropboxusercontent.com/u/40215219/ICON_TV/HanoiCAB1.png",HanoiCAB1
+udp://@225.1.1.209:30120
+#EXTINF:-1 tvg-name="HanoiCAB2" tvg-logo="http://dl.dropboxusercontent.com/u/40215219/ICON_TV/HanoiCAB2.png",HanoiCAB2
+udp://@225.1.1.207:30120
+#EXTINF:-1 tvg-name="HanoiCAB4" tvg-logo="http://dl.dropboxusercontent.com/u/40215219/ICON_TV/HanoiCAB4.png",HanoiCAB4
+udp://@225.1.1.206:30120
+#EXTINF:-1 tvg-name="HANOI 1" tvg-logo="http://dl.dropboxusercontent.com/u/40215219/ICON_TV/HANOI_1.png",HANOI 1
+udp://@225.1.2.186:30120
+#EXTINF:-1 tvg-name="HN 1" tvg-logo="http://dl.dropboxusercontent.com/u/40215219/ICON_TV/HN_1.png",HN 1
+udp://@225.1.1.20:30120
+#EXTINF:-1 tvg-name="HANOI 2" tvg-logo="http://dl.dropboxusercontent.com/u/40215219/ICON_TV/HANOI_2.png",HANOI 2
+udp://@225.1.2.108:30120
+#EXTINF:-1 tvg-name="VIETNAMNET" tvg-logo="http://dl.dropboxusercontent.com/u/40215219/ICON_TV/VIETNAMNET.png",VIETNAMNET
+udp://@225.1.1.194:30120
+#EXTINF:-1 tvg-name="VIETNAMNET" tvg-logo="http://dl.dropboxusercontent.com/u/40215219/ICON_TV/VIETNAMNET.png",VIETNAMNET
+udp://@225.1.2.109:30120
+#EXTINF:-1 tvg-name="ANTV-SD" tvg-logo="http://dl.dropboxusercontent.com/u/40215219/ICON_TV/ANTV-SD.png",ANTV-SD
+udp://@225.1.1.22:30120
+#EXTINF:-1 tvg-name="ANTV" tvg-logo="http://dl.dropboxusercontent.com/u/40215219/ICON_TV/ANTV.png",ANTV
+udp://@225.1.2.169:30120
+#EXTINF:-1 tvg-name="AN NINH THE GIOI" tvg-logo="http://dl.dropboxusercontent.com/u/40215219/ICON_TV/AN_NINH_THE_GIOI.png",AN NINH THE GIOI
+udp://@225.1.1.208:30120
+#EXTINF:-1 tvg-name="TTXVN" tvg-logo="http://dl.dropboxusercontent.com/u/40215219/ICON_TV/TTXVN.png",TTXVN
+udp://@225.1.1.54:30120
+#EXTINF:-1 tvg-name="TTXVN" tvg-logo="http://dl.dropboxusercontent.com/u/40215219/ICON_TV/TTXVN.png",TTXVN
+udp://@225.1.1.167:30120
+#EXTINF:-1 tvg-name="Du lich & Cuoc song" tvg-logo="http://dl.dropboxusercontent.com/u/40215219/ICON_TV/Du_lich_&_Cuoc_song.png",Du lich & Cuoc song
+udp://@225.1.1.76:30120
+#EXTINF:-1 tvg-name="DU LICH & CUOC SONG" tvg-logo="http://dl.dropboxusercontent.com/u/40215219/ICON_TV/DU_LICH_&_CUOC_SONG.png",DU LICH & CUOC SONG
+udp://@225.1.1.166:30120
+#EXTINF:-1 tvg-name="NHAN DAN HD" tvg-logo="http://dl.dropboxusercontent.com/u/40215219/ICON_TV/NHAN_DAN_HD.png",NHAN DAN HD
+udp://@225.1.1.91:30120
+#EXTINF:-1 tvg-name="QUOC HOI HD" tvg-logo="http://dl.dropboxusercontent.com/u/40215219/ICON_TV/QUOC_HOI_HD.png",QUOC HOI HD
+udp://@225.1.2.148:30120
+#EXTINF:-1 tvg-name="QUOC HOI HD" tvg-logo="http://dl.dropboxusercontent.com/u/40215219/ICON_TV/QUOC_HOI_HD.png",QUOC HOI HD
+udp://@225.1.2.149:30120
+#EXTINF:-1 tvg-name="FBNC HD" tvg-logo="http://dl.dropboxusercontent.com/u/40215219/ICON_TV/FBNC_HD.png",FBNC HD
+udp://@225.1.1.137:30120
+#EXTINF:-1 tvg-name="FBNC HD" tvg-logo="http://dl.dropboxusercontent.com/u/40215219/ICON_TV/FBNC_HD.png",FBNC HD
+udp://@225.1.1.181:30120
+#EXTINF:-1 tvg-name="FBNC2 HD" tvg-logo="http://dl.dropboxusercontent.com/u/40215219/ICON_TV/FBNC2_HD.png",FBNC2 HD
+udp://@225.1.1.182:30120
+#EXTINF:-1 tvg-name="FBNC" tvg-logo="http://dl.dropboxusercontent.com/u/40215219/ICON_TV/FBNC.png",FBNC
+udp://@225.1.1.169:30120
+#EXTINF:-1 tvg-name="QPVN HD" tvg-logo="http://dl.dropboxusercontent.com/u/40215219/ICON_TV/QPVN_HD.png",QPVN HD
+udp://@225.1.2.216:30120
+#EXTINF:-1 tvg-name="QPVN HD" tvg-logo="http://dl.dropboxusercontent.com/u/40215219/ICON_TV/QPVN_HD.png",QPVN HD
+udp://@225.1.2.217:30120
+#EXTINF:-1 tvg-name="VOV" tvg-logo="http://dl.dropboxusercontent.com/u/40215219/ICON_TV/VOV.png",VOV
+udp://@225.1.2.110:30120
+#EXTINF:-1 tvg-name="NCM-BTV10" tvg-logo="http://dl.dropboxusercontent.com/u/40215219/ICON_TV/NCM-BTV10.png",NCM-BTV10
+udp://@225.1.1.216:30120
+#EXTINF:-1 tvg-name="VIETTEEN" tvg-logo="http://dl.dropboxusercontent.com/u/40215219/ICON_TV/VIETTEEN.png",VIETTEEN
+udp://@225.1.1.218:30120
+#EXTINF:-1 tvg-name="MIEN TAY" tvg-logo="http://dl.dropboxusercontent.com/u/40215219/ICON_TV/MIEN_TAY.png",MIEN TAY
+udp://@225.1.1.221:30120
+#EXTINF:-1 tvg-name="PHIMHAYHD" tvg-logo="http://dl.dropboxusercontent.com/u/40215219/ICON_TV/PHIMHAYHD.png",PHIMHAYHD
+udp://@225.1.1.222:30120
+#EXTINF:-1 tvg-name="VIETTEEN2" tvg-logo="http://dl.dropboxusercontent.com/u/40215219/ICON_TV/VIETTEEN2.png",VIETTEEN2
+udp://@225.1.1.223:30120
+#EXTINF:-1 tvg-name="SAM-BTV11" tvg-logo="http://dl.dropboxusercontent.com/u/40215219/ICON_TV/SAM-BTV11.png",SAM-BTV11
+udp://@225.1.1.224:30120
+#EXTINF:-1 tvg-name="NCM-BTV10" tvg-logo="http://dl.dropboxusercontent.com/u/40215219/ICON_TV/NCM-BTV10.png",NCM-BTV10
+udp://@225.1.1.225:30120
+#EXTINF:-1 tvg-name="AXN HD" tvg-logo="http://dl.dropboxusercontent.com/u/40215219/ICON_TV/AXN_HD.png",AXN HD
+udp://@225.1.2.224:30120
+#EXTINF:-1 tvg-name="AXN-HD" tvg-logo="http://dl.dropboxusercontent.com/u/40215219/ICON_TV/AXN-HD.png",AXN-HD
+udp://@225.1.1.237:30120
+#EXTINF:-1 tvg-name="Cartoon HD" tvg-logo="http://dl.dropboxusercontent.com/u/40215219/ICON_TV/Cartoon_HD.png",Cartoon HD
+udp://@225.1.2.231:30120
+#EXTINF:-1 tvg-name="CINEMAX" tvg-logo="http://dl.dropboxusercontent.com/u/40215219/ICON_TV/CINEMAX.png",CINEMAX
+udp://@225.1.1.230:30120
+#EXTINF:-1 tvg-name="Discovery" tvg-logo="http://dl.dropboxusercontent.com/u/40215219/ICON_TV/Discovery.png",Discovery
+udp://@225.1.1.238:30120
+#EXTINF:-1 tvg-name="DISCOVERY HD" tvg-logo="http://dl.dropboxusercontent.com/u/40215219/ICON_TV/DISCOVERY_HD.png",DISCOVERY HD
+udp://@225.1.2.222:30120
+#EXTINF:-1 tvg-name="FASHION TV HD" tvg-logo="http://dl.dropboxusercontent.com/u/40215219/ICON_TV/FASHION_TV_HD.png",FASHION TV HD
+udp://@225.1.2.226:30120
+#EXTINF:-1 tvg-name="FASHION TV HD" tvg-logo="http://dl.dropboxusercontent.com/u/40215219/ICON_TV/FASHION_TV_HD.png",FASHION TV HD
+udp://@225.1.2.227:30120
+#EXTINF:-1 tvg-name="FASHION TV-HD" tvg-logo="http://dl.dropboxusercontent.com/u/40215219/ICON_TV/FASHION_TV-HD.png",FASHION TV-HD
+udp://@225.1.1.234:30120
+#EXTINF:-1 tvg-name="HBO HD" tvg-logo="http://dl.dropboxusercontent.com/u/40215219/ICON_TV/HBO_HD.png",HBO HD
+udp://@225.1.2.233:30120
+#EXTINF:-1 tvg-name="HBO HD" tvg-logo="http://dl.dropboxusercontent.com/u/40215219/ICON_TV/HBO_HD.png",HBO HD
+udp://@225.1.2.232:30120
+#EXTINF:-1 tvg-name="HBO-SD" tvg-logo="http://dl.dropboxusercontent.com/u/40215219/ICON_TV/HBO-SD.png",HBO-SD
+udp://@225.1.1.235:30120
+#EXTINF:-1 tvg-name="HBO-SD" tvg-logo="http://dl.dropboxusercontent.com/u/40215219/ICON_TV/HBO-SD.png",HBO-SD
+udp://@225.1.1.48:30120
+#EXTINF:-1 tvg-name="NATIONAL HD" tvg-logo="http://dl.dropboxusercontent.com/u/40215219/ICON_TV/NATIONAL_HD.png",NATIONAL HD
+udp://@225.1.2.234:30120
+#EXTINF:-1 tvg-name="OUTDOOR HD" tvg-logo="http://dl.dropboxusercontent.com/u/40215219/ICON_TV/OUTDOOR_HD.png",OUTDOOR HD
+udp://@225.1.2.215:30120
+#EXTINF:-1 tvg-name="OUTDOOR HD" tvg-logo="http://dl.dropboxusercontent.com/u/40215219/ICON_TV/OUTDOOR_HD.png",OUTDOOR HD
+udp://@225.1.2.214:30120
+#EXTINF:-1 tvg-name="R&D-HBO" tvg-logo="http://dl.dropboxusercontent.com/u/40215219/ICON_TV/R&D-HBO.png",R&D-HBO
+udp://@225.1.1.65:30120
+#EXTINF:-1 tvg-name="R&D-HBO HD" tvg-logo="http://dl.dropboxusercontent.com/u/40215219/ICON_TV/R&D-HBO_HD.png",R&D-HBO HD
+udp://@225.1.1.89:30120
+#EXTINF:-1 tvg-name="SGEM-HD" tvg-logo="http://dl.dropboxusercontent.com/u/40215219/ICON_TV/SGEM-HD.png",SGEM-HD
+udp://@225.1.1.17:30120
+#EXTINF:-1 tvg-name="SGEM-HD-2" tvg-logo="http://dl.dropboxusercontent.com/u/40215219/ICON_TV/SGEM-HD-2.png",SGEM-HD-2
+udp://@225.1.1.60:30120
+#EXTINF:-1 tvg-name="STARMOVIE HD" tvg-logo="http://dl.dropboxusercontent.com/u/40215219/ICON_TV/STARMOVIE_HD.png",STARMOVIE HD
+udp://@225.1.2.238:30120
+#EXTINF:-1 tvg-name="STARMOVIE HD" tvg-logo="http://dl.dropboxusercontent.com/u/40215219/ICON_TV/STARMOVIE_HD.png",STARMOVIE HD
+udp://@225.1.2.239:30120
+#EXTINF:-1 tvg-name="STARMOVIE-SD" tvg-logo="http://dl.dropboxusercontent.com/u/40215219/ICON_TV/STARMOVIE-SD.png",STARMOVIE-SD
+udp://@225.1.1.205:30120
+#EXTINF:-1 tvg-name="StarWorld HD" tvg-logo="http://dl.dropboxusercontent.com/u/40215219/ICON_TV/StarWorld_HD.png",StarWorld HD
+udp://@225.1.2.237:30120
+#EXTINF:-1 tvg-name="TOONAMI" tvg-logo="http://dl.dropboxusercontent.com/u/40215219/ICON_TV/TOONAMI.png",TOONAMI
+udp://@225.1.1.143:30120
+#EXTINF:-1 tvg-name="TOONAMI HD" tvg-logo="http://dl.dropboxusercontent.com/u/40215219/ICON_TV/TOONAMI_HD.png",TOONAMI HD
+udp://@225.1.2.163:30120
+#EXTINF:-1 tvg-name="TOONAMI HD" tvg-logo="http://dl.dropboxusercontent.com/u/40215219/ICON_TV/TOONAMI_HD.png",TOONAMI HD
+udp://@225.1.2.220:30120
+#EXTINF:-1 tvg-name="A +" tvg-logo="http://dl.dropboxusercontent.com/u/40215219/ICON_TV/A_+.png",A +
+udp://@225.1.2.21:30120
+#EXTINF:-1 tvg-name="AFC-HD" tvg-logo="http://dl.dropboxusercontent.com/u/40215219/ICON_TV/AFC-HD.png",AFC-HD
+udp://@225.1.1.198:30120
+#EXTINF:-1 tvg-name="AFC-HD" tvg-logo="http://dl.dropboxusercontent.com/u/40215219/ICON_TV/AFC-HD.png",AFC-HD
+udp://@225.1.2.98:30120
+#EXTINF:-1 tvg-name="ANIMAL PLANET" tvg-logo="http://dl.dropboxusercontent.com/u/40215219/ICON_TV/ANIMAL_PLANET.png",ANIMAL PLANET
+udp://@225.1.1.231:30120
+#EXTINF:-1 tvg-name="ARIANG" tvg-logo="http://dl.dropboxusercontent.com/u/40215219/ICON_TV/ARIANG.png",ARIANG
+udp://@225.1.2.116:30120
+#EXTINF:-1 tvg-name="ARIANG" tvg-logo="http://dl.dropboxusercontent.com/u/40215219/ICON_TV/ARIANG.png",ARIANG
+udp://@225.1.1.201:30120
+#EXTINF:-1 tvg-name="CN" tvg-logo="http://dl.dropboxusercontent.com/u/40215219/ICON_TV/CN.png",CN
+udp://@225.1.1.240:30120
+#EXTINF:-1 tvg-name="CN-HD" tvg-logo="http://dl.dropboxusercontent.com/u/40215219/ICON_TV/CN-HD.png",CN-HD
+udp://@225.1.2.7:30120
+#EXTINF:-1 tvg-name="CNN" tvg-logo="http://dl.dropboxusercontent.com/u/40215219/ICON_TV/CNN.png",CNN
+udp://@225.1.1.242:30120
+#EXTINF:-1 tvg-name="CNN" tvg-logo="http://dl.dropboxusercontent.com/u/40215219/ICON_TV/CNN.png",CNN
+udp://@225.1.2.15:30120
+#EXTINF:-1 tvg-name="Da Vinci HD" tvg-logo="http://dl.dropboxusercontent.com/u/40215219/ICON_TV/Da_Vinci_HD.png",Da Vinci HD
+udp://@225.1.1.197:30120
+#EXTINF:-1 tvg-name="DISNEY CHANNEL" tvg-logo="http://dl.dropboxusercontent.com/u/40215219/ICON_TV/DISNEY_CHANNEL.png",DISNEY CHANNEL
+udp://@225.1.1.232:30120
+#EXTINF:-1 tvg-name="DISNEY JUNIOR" tvg-logo="http://dl.dropboxusercontent.com/u/40215219/ICON_TV/DISNEY_JUNIOR.png",DISNEY JUNIOR
+udp://@225.1.1.233:30120
+#EXTINF:-1 tvg-name="DIVA" tvg-logo="http://dl.dropboxusercontent.com/u/40215219/ICON_TV/DIVA.png",DIVA
+udp://@225.1.1.199:30120
+#EXTINF:-1 tvg-name="DW" tvg-logo="http://dl.dropboxusercontent.com/u/40215219/ICON_TV/DW.png",DW
+udp://@225.1.2.119:30120
+#EXTINF:-1 tvg-name="DW" tvg-logo="http://dl.dropboxusercontent.com/u/40215219/ICON_TV/DW.png",DW
+udp://@225.1.1.203:30120
+#EXTINF:-1 tvg-name="KBS World" tvg-logo="http://dl.dropboxusercontent.com/u/40215219/ICON_TV/KBS_World.png",KBS World
+udp://@225.1.2.91:30120
+#EXTINF:-1 tvg-name="MEDIACORP" tvg-logo="http://dl.dropboxusercontent.com/u/40215219/ICON_TV/MEDIACORP.png",MEDIACORP
+udp://@225.1.1.202:30120
+#EXTINF:-1 tvg-name="MTV" tvg-logo="http://dl.dropboxusercontent.com/u/40215219/ICON_TV/MTV.png",MTV
+udp://@225.1.2.12:30120
+#EXTINF:-1 tvg-name="NATIONAL GEOGRAPHIC" tvg-logo="http://dl.dropboxusercontent.com/u/40215219/ICON_TV/NATIONAL_GEOGRAPHIC.png",NATIONAL GEOGRAPHIC
+udp://@225.1.1.244:30120
+#EXTINF:-1 tvg-name="Nhac Khong Loi" tvg-logo="http://dl.dropboxusercontent.com/u/40215219/ICON_TV/Nhac_Khong_Loi.png",Nhac Khong Loi
+udp://@225.1.1.8:30120
+#EXTINF:-1 tvg-name="Nhac Tong Hop" tvg-logo="http://dl.dropboxusercontent.com/u/40215219/ICON_TV/Nhac_Tong_Hop.png",Nhac Tong Hop
+udp://@225.1.1.7:30120
+#EXTINF:-1 tvg-name="NHK-JAPAN" tvg-logo="http://dl.dropboxusercontent.com/u/40215219/ICON_TV/NHK-JAPAN.png",NHK-JAPAN
+udp://@225.1.1.196:30120
+#EXTINF:-1 tvg-name="PHIM AN DO" tvg-logo="http://dl.dropboxusercontent.com/u/40215219/ICON_TV/PHIM_AN_DO.png",PHIM AN DO
+udp://@225.1.1.245:30120
+#EXTINF:-1 tvg-name="STARWORLD" tvg-logo="http://dl.dropboxusercontent.com/u/40215219/ICON_TV/STARWORLD.png",STARWORLD
+udp://@225.1.1.204:30120
+#EXTINF:-1 tvg-name="TLC" tvg-logo="http://dl.dropboxusercontent.com/u/40215219/ICON_TV/TLC.png",TLC
+udp://@225.1.1.236:30120
+#EXTINF:-1 tvg-name="TV5" tvg-logo="http://dl.dropboxusercontent.com/u/40215219/ICON_TV/TV5.png",TV5
+udp://@225.1.1.200:30120
+#EXTINF:-1 tvg-name="V MUSIC" tvg-logo="http://dl.dropboxusercontent.com/u/40215219/ICON_TV/V_MUSIC.png",V MUSIC
+udp://@225.1.1.243:30120
+#EXTINF:-1 tvg-name="V-HD HD" tvg-logo="http://dl.dropboxusercontent.com/u/40215219/ICON_TV/V-HD_HD.png",V-HD HD
+udp://@225.1.1.188:30120
+#EXTINF:-1 tvg-name="V-HD HD" tvg-logo="http://dl.dropboxusercontent.com/u/40215219/ICON_TV/V-HD_HD.png",V-HD HD
+udp://@225.1.1.187:30120
+#EXTINF:-1 tvg-name="ANGIANG TV" tvg-logo="http://dl.dropboxusercontent.com/u/40215219/ICON_TV/ANGIANG_TV.png",ANGIANG TV
+udp://@225.1.2.173:30120
+#EXTINF:-1 tvg-name="BACGIANG TV" tvg-logo="http://dl.dropboxusercontent.com/u/40215219/ICON_TV/BACGIANG_TV.png",BACGIANG TV
+udp://@225.1.1.164:30120
+#EXTINF:-1 tvg-name="BEN TRE TV" tvg-logo="http://dl.dropboxusercontent.com/u/40215219/ICON_TV/BEN_TRE_TV.png",BEN TRE TV
+udp://@225.1.2.78:30120
+#EXTINF:-1 tvg-name="Binh Dinh TV" tvg-logo="http://dl.dropboxusercontent.com/u/40215219/ICON_TV/Binh_Dinh_TV.png",Binh Dinh TV
+udp://@225.1.1.115:30120
+#EXTINF:-1 tvg-name="BINH PHUOC TV" tvg-logo="http://dl.dropboxusercontent.com/u/40215219/ICON_TV/BINH_PHUOC_TV.png",BINH PHUOC TV
+udp://@225.1.2.23:30120
+#EXTINF:-1 tvg-name="BINH THUAN TV" tvg-logo="http://dl.dropboxusercontent.com/u/40215219/ICON_TV/BINH_THUAN_TV.png",BINH THUAN TV
+udp://@225.1.2.79:30120
+#EXTINF:-1 tvg-name="Binh Thuan TV" tvg-logo="http://dl.dropboxusercontent.com/u/40215219/ICON_TV/Binh_Thuan_TV.png",Binh Thuan TV
+udp://@225.1.1.124:30120
+#EXTINF:-1 tvg-name="BRT TV" tvg-logo="http://dl.dropboxusercontent.com/u/40215219/ICON_TV/BRT_TV.png",BRT TV
+udp://@225.1.2.175:30120
+#EXTINF:-1 tvg-name="BTV" tvg-logo="http://dl.dropboxusercontent.com/u/40215219/ICON_TV/BTV.png",BTV
+udp://@225.1.2.141:30120
+#EXTINF:-1 tvg-name="BTV" tvg-logo="http://dl.dropboxusercontent.com/u/40215219/ICON_TV/BTV.png",BTV
+udp://@225.1.1.145:30120
+#EXTINF:-1 tvg-name="BTV-DP" tvg-logo="http://dl.dropboxusercontent.com/u/40215219/ICON_TV/BTV-DP.png",BTV-DP
+udp://@225.1.1.61:30120
+#EXTINF:-1 tvg-name="BTV-SD" tvg-logo="http://dl.dropboxusercontent.com/u/40215219/ICON_TV/BTV-SD.png",BTV-SD
+udp://@225.1.1.40:30120
+#EXTINF:-1 tvg-name="BTV1" tvg-logo="http://dl.dropboxusercontent.com/u/40215219/ICON_TV/BTV1.png",BTV1
+udp://@225.1.1.150:30120
+#EXTINF:-1 tvg-name="BTV1" tvg-logo="http://dl.dropboxusercontent.com/u/40215219/ICON_TV/BTV1.png",BTV1
+udp://@225.1.1.94:30120
+#EXTINF:-1 tvg-name="BTV2" tvg-logo="http://dl.dropboxusercontent.com/u/40215219/ICON_TV/BTV2.png",BTV2
+udp://@225.1.1.149:30120
+#EXTINF:-1 tvg-name="BTV2" tvg-logo="http://dl.dropboxusercontent.com/u/40215219/ICON_TV/BTV2.png",BTV2
+udp://@225.1.1.100:30120
+#EXTINF:-1 tvg-name="BTV4" tvg-logo="http://dl.dropboxusercontent.com/u/40215219/ICON_TV/BTV4.png",BTV4
+udp://@225.1.1.148:30120
+#EXTINF:-1 tvg-name="BTV4-HD" tvg-logo="http://dl.dropboxusercontent.com/u/40215219/ICON_TV/BTV4-HD.png",BTV4-HD
+udp://@225.1.1.29:30120
+#EXTINF:-1 tvg-name="BTV4-IP 2" tvg-logo="http://dl.dropboxusercontent.com/u/40215219/ICON_TV/BTV4-IP_2.png",BTV4-IP 2
+udp://@225.1.1.57:30120
+#EXTINF:-1 tvg-name="Can Tho TV" tvg-logo="http://dl.dropboxusercontent.com/u/40215219/ICON_TV/Can_Tho_TV.png",Can Tho TV
+udp://@225.1.1.121:30120
+#EXTINF:-1 tvg-name="CTV" tvg-logo="http://dl.dropboxusercontent.com/u/40215219/ICON_TV/CTV.png",CTV
+udp://@225.1.1.104:30120
+#EXTINF:-1 tvg-name="Daklak TV" tvg-logo="http://dl.dropboxusercontent.com/u/40215219/ICON_TV/Daklak_TV.png",Daklak TV
+udp://@225.1.1.64:30120
+#EXTINF:-1 tvg-name="DN1-RTV" tvg-logo="http://dl.dropboxusercontent.com/u/40215219/ICON_TV/DN1-RTV.png",DN1-RTV
+udp://@225.1.1.152:30120
+#EXTINF:-1 tvg-name="DN2-RTV" tvg-logo="http://dl.dropboxusercontent.com/u/40215219/ICON_TV/DN2-RTV.png",DN2-RTV
+udp://@225.1.1.151:30120
+#EXTINF:-1 tvg-name="DRT1" tvg-logo="http://dl.dropboxusercontent.com/u/40215219/ICON_TV/DRT1.png",DRT1
+udp://@225.1.1.147:30120
+#EXTINF:-1 tvg-name="DRT2" tvg-logo="http://dl.dropboxusercontent.com/u/40215219/ICON_TV/DRT2.png",DRT2
+udp://@225.1.1.146:30120
+#EXTINF:-1 tvg-name="FPT TV" tvg-logo="http://dl.dropboxusercontent.com/u/40215219/ICON_TV/FPT_TV.png",FPT TV
+udp://@225.1.1.210:30120
+#EXTINF:-1 tvg-name="GIA LAI TV" tvg-logo="http://dl.dropboxusercontent.com/u/40215219/ICON_TV/GIA_LAI_TV.png",GIA LAI TV
+udp://@225.1.2.128:30120
+#EXTINF:-1 tvg-name="GIALAI TV" tvg-logo="http://dl.dropboxusercontent.com/u/40215219/ICON_TV/GIALAI_TV.png",GIALAI TV
+udp://@225.1.2.176:30120
+#EXTINF:-1 tvg-name="HA NAM TV" tvg-logo="http://dl.dropboxusercontent.com/u/40215219/ICON_TV/HA_NAM_TV.png",HA NAM TV
+udp://@225.1.1.63:30120
+#EXTINF:-1 tvg-name="HA TINH TV" tvg-logo="http://dl.dropboxusercontent.com/u/40215219/ICON_TV/HA_TINH_TV.png",HA TINH TV
+udp://@225.1.1.75:30120
+#EXTINF:-1 tvg-name="HA TINH TV" tvg-logo="http://dl.dropboxusercontent.com/u/40215219/ICON_TV/HA_TINH_TV.png",HA TINH TV
+udp://@225.1.2.95:30120
+#EXTINF:-1 tvg-name="HDTV1" tvg-logo="http://dl.dropboxusercontent.com/u/40215219/ICON_TV/HDTV1.png",HDTV1
+udp://@225.1.1.158:30120
+#EXTINF:-1 tvg-name="HGTV" tvg-logo="http://dl.dropboxusercontent.com/u/40215219/ICON_TV/HGTV.png",HGTV
+udp://@225.1.1.138:30120
+#EXTINF:-1 tvg-name="HGV" tvg-logo="http://dl.dropboxusercontent.com/u/40215219/ICON_TV/HGV.png",HGV
+udp://@225.1.1.157:30120
+#EXTINF:-1 tvg-name="HN 2" tvg-logo="http://dl.dropboxusercontent.com/u/40215219/ICON_TV/HN_2.png",HN 2
+udp://@225.1.1.125:30120
+#EXTINF:-1 tvg-name="HOA BINH TV" tvg-logo="http://dl.dropboxusercontent.com/u/40215219/ICON_TV/HOA_BINH_TV.png",HOA BINH TV
+udp://@225.1.2.138:30120
+#EXTINF:-1 tvg-name="HOABINH TV" tvg-logo="http://dl.dropboxusercontent.com/u/40215219/ICON_TV/HOABINH_TV.png",HOABINH TV
+udp://@225.1.2.168:30120
+#EXTINF:-1 tvg-name="HOMTV" tvg-logo="http://dl.dropboxusercontent.com/u/40215219/ICON_TV/HOMTV.png",HOMTV
+udp://@225.1.2.38:30120
+#EXTINF:-1 tvg-name="Hotel" tvg-logo="http://dl.dropboxusercontent.com/u/40215219/ICON_TV/Hotel.png",Hotel
+udp://@225.1.1.123:30120
+#EXTINF:-1 tvg-name="HTV-The Thao" tvg-logo="http://dl.dropboxusercontent.com/u/40215219/ICON_TV/HTV-The_Thao.png",HTV-The Thao
+udp://@225.1.1.50:30120
+#EXTINF:-1 tvg-name="HUNG YEN TV" tvg-logo="http://dl.dropboxusercontent.com/u/40215219/ICON_TV/HUNG_YEN_TV.png",HUNG YEN TV
+udp://@225.1.2.147:30120
+#EXTINF:-1 tvg-name="HUNG YEN" tvg-logo="http://dl.dropboxusercontent.com/u/40215219/ICON_TV/HUNG_YEN.png",HUNG YEN
+udp://@225.1.1.118:30120
+#EXTINF:-1 tvg-name="KIENGIANG TV" tvg-logo="http://dl.dropboxusercontent.com/u/40215219/ICON_TV/KIENGIANG_TV.png",KIENGIANG TV
+udp://@225.1.2.124:30120
+#EXTINF:-1 tvg-name="KTV" tvg-logo="http://dl.dropboxusercontent.com/u/40215219/ICON_TV/KTV.png",KTV
+udp://@225.1.2.41:30120
+#EXTINF:-1 tvg-name="KTV" tvg-logo="http://dl.dropboxusercontent.com/u/40215219/ICON_TV/KTV.png",KTV
+udp://@225.1.1.133:30120
+#EXTINF:-1 tvg-name="LA34" tvg-logo="http://dl.dropboxusercontent.com/u/40215219/ICON_TV/LA34.png",LA34
+udp://@225.1.1.162:30120
+#EXTINF:-1 tvg-name="LAM DONG TV" tvg-logo="http://dl.dropboxusercontent.com/u/40215219/ICON_TV/LAM_DONG_TV.png",LAM DONG TV
+udp://@225.1.2.127:30120
+#EXTINF:-1 tvg-name="Lang Son TV" tvg-logo="http://dl.dropboxusercontent.com/u/40215219/ICON_TV/Lang_Son_TV.png",Lang Son TV
+udp://@225.1.1.160:30120
+#EXTINF:-1 tvg-name="Lao Cai TV" tvg-logo="http://dl.dropboxusercontent.com/u/40215219/ICON_TV/Lao_Cai_TV.png",Lao Cai TV
+udp://@225.1.1.119:30120
+#EXTINF:-1 tvg-name="LTV TV" tvg-logo="http://dl.dropboxusercontent.com/u/40215219/ICON_TV/LTV_TV.png",LTV TV
+udp://@225.1.2.177:30120
+#EXTINF:-1 tvg-name="NINH BINH TV" tvg-logo="http://dl.dropboxusercontent.com/u/40215219/ICON_TV/NINH_BINH_TV.png",NINH BINH TV
+udp://@225.1.2.136:30120
+#EXTINF:-1 tvg-name="NINH THUAN TV" tvg-logo="http://dl.dropboxusercontent.com/u/40215219/ICON_TV/NINH_THUAN_TV.png",NINH THUAN TV
+udp://@225.1.2.135:30120
+#EXTINF:-1 tvg-name="NINHBINH TV" tvg-logo="http://dl.dropboxusercontent.com/u/40215219/ICON_TV/NINHBINH_TV.png",NINHBINH TV
+udp://@225.1.2.185:30120
+#EXTINF:-1 tvg-name="NTV" tvg-logo="http://dl.dropboxusercontent.com/u/40215219/ICON_TV/NTV.png",NTV
+udp://@225.1.1.120:30120
+#EXTINF:-1 tvg-name="NTV TV" tvg-logo="http://dl.dropboxusercontent.com/u/40215219/ICON_TV/NTV_TV.png",NTV TV
+udp://@225.1.2.178:30120
+#EXTINF:-1 tvg-name="NTV TV" tvg-logo="http://dl.dropboxusercontent.com/u/40215219/ICON_TV/NTV_TV.png",NTV TV
+udp://@225.1.2.183:30120
+#EXTINF:-1 tvg-name="PHU THO TV" tvg-logo="http://dl.dropboxusercontent.com/u/40215219/ICON_TV/PHU_THO_TV.png",PHU THO TV
+udp://@225.1.2.165:30120
+#EXTINF:-1 tvg-name="PTQ" tvg-logo="http://dl.dropboxusercontent.com/u/40215219/ICON_TV/PTQ.png",PTQ
+udp://@225.1.2.174:30120
+#EXTINF:-1 tvg-name="PTTH1" tvg-logo="http://dl.dropboxusercontent.com/u/40215219/ICON_TV/PTTH1.png",PTTH1
+udp://@225.1.2.182:30120
+#EXTINF:-1 tvg-name="QPVN_SD" tvg-logo="http://dl.dropboxusercontent.com/u/40215219/ICON_TV/QPVN_SD.png",QPVN_SD
+udp://@225.1.1.226:30120
+#EXTINF:-1 tvg-name="QTN1" tvg-logo="http://dl.dropboxusercontent.com/u/40215219/ICON_TV/QTN1.png",QTN1
+udp://@225.1.2.181:30120
+#EXTINF:-1 tvg-name="QTN3" tvg-logo="http://dl.dropboxusercontent.com/u/40215219/ICON_TV/QTN3.png",QTN3
+udp://@225.1.2.180:30120
+#EXTINF:-1 tvg-name="QUANG BINH TV" tvg-logo="http://dl.dropboxusercontent.com/u/40215219/ICON_TV/QUANG_BINH_TV.png",QUANG BINH TV
+udp://@225.1.2.164:30120
+#EXTINF:-1 tvg-name="QUANG NAM TV" tvg-logo="http://dl.dropboxusercontent.com/u/40215219/ICON_TV/QUANG_NAM_TV.png",QUANG NAM TV
+udp://@225.1.2.50:30120
+#EXTINF:-1 tvg-name="QUANG TRI TV" tvg-logo="http://dl.dropboxusercontent.com/u/40215219/ICON_TV/QUANG_TRI_TV.png",QUANG TRI TV
+udp://@225.1.1.117:30120
+#EXTINF:-1 tvg-name="RTV" tvg-logo="http://dl.dropboxusercontent.com/u/40215219/ICON_TV/RTV.png",RTV
+udp://@225.1.1.102:30120
+#EXTINF:-1 tvg-name="RTV-sv2" tvg-logo="http://dl.dropboxusercontent.com/u/40215219/ICON_TV/RTV-sv2.png",RTV-sv2
+udp://@225.1.1.105:30120
+#EXTINF:-1 tvg-name="SOC TRANG TV" tvg-logo="http://dl.dropboxusercontent.com/u/40215219/ICON_TV/SOC_TRANG_TV.png",SOC TRANG TV
+udp://@225.1.1.159:30120
+#EXTINF:-1 tvg-name="Son LA TV" tvg-logo="http://dl.dropboxusercontent.com/u/40215219/ICON_TV/Son_LA_TV.png",Son LA TV
+udp://@225.1.1.98:30120
+#EXTINF:-1 tvg-name="Thai Binh TV" tvg-logo="http://dl.dropboxusercontent.com/u/40215219/ICON_TV/Thai_Binh_TV.png",Thai Binh TV
+udp://@225.1.1.99:30120
+#EXTINF:-1 tvg-name="THAIBINH TV" tvg-logo="http://dl.dropboxusercontent.com/u/40215219/ICON_TV/THAIBINH_TV.png",THAIBINH TV
+udp://@225.1.2.92:30120
+#EXTINF:-1 tvg-name="THAINGUYEN 1" tvg-logo="http://dl.dropboxusercontent.com/u/40215219/ICON_TV/THAINGUYEN_1.png",THAINGUYEN 1
+udp://@225.1.2.179:30120
+#EXTINF:-1 tvg-name="THANH HOA TV" tvg-logo="http://dl.dropboxusercontent.com/u/40215219/ICON_TV/THANH_HOA_TV.png",THANH HOA TV
+udp://@225.1.2.134:30120
+#EXTINF:-1 tvg-name="THBT" tvg-logo="http://dl.dropboxusercontent.com/u/40215219/ICON_TV/THBT.png",THBT
+udp://@225.1.1.156:30120
+#EXTINF:-1 tvg-name="THDT1" tvg-logo="http://dl.dropboxusercontent.com/u/40215219/ICON_TV/THDT1.png",THDT1
+udp://@225.1.1.163:30120
+#EXTINF:-1 tvg-name="THP TV" tvg-logo="http://dl.dropboxusercontent.com/u/40215219/ICON_TV/THP_TV.png",THP TV
+udp://@225.1.2.187:30120
+#EXTINF:-1 tvg-name="THTPCT" tvg-logo="http://dl.dropboxusercontent.com/u/40215219/ICON_TV/THTPCT.png",THTPCT
+udp://@225.1.1.132:30120
+#EXTINF:-1 tvg-name="THVL1" tvg-logo="http://dl.dropboxusercontent.com/u/40215219/ICON_TV/THVL1.png",THVL1
+udp://@225.1.1.25:30120
+#EXTINF:-1 tvg-name="THVL1-HD" tvg-logo="http://dl.dropboxusercontent.com/u/40215219/ICON_TV/THVL1-HD.png",THVL1-HD
+udp://@225.1.1.155:30120
+#EXTINF:-1 tvg-name="THVL2" tvg-logo="http://dl.dropboxusercontent.com/u/40215219/ICON_TV/THVL2.png",THVL2
+udp://@225.1.1.109:30120
+#EXTINF:-1 tvg-name="THVL2-HD" tvg-logo="http://dl.dropboxusercontent.com/u/40215219/ICON_TV/THVL2-HD.png",THVL2-HD
+udp://@225.1.1.154:30120
+#EXTINF:-1 tvg-name="TIENGIANG TV" tvg-logo="http://dl.dropboxusercontent.com/u/40215219/ICON_TV/TIENGIANG_TV.png",TIENGIANG TV
+udp://@225.1.2.170:30120
+#EXTINF:-1 tvg-name="TRA VINH TV" tvg-logo="http://dl.dropboxusercontent.com/u/40215219/ICON_TV/TRA_VINH_TV.png",TRA VINH TV
+udp://@225.1.2.129:30120
+#EXTINF:-1 tvg-name="TRAVINH TV" tvg-logo="http://dl.dropboxusercontent.com/u/40215219/ICON_TV/TRAVINH_TV.png",TRAVINH TV
+udp://@225.1.2.172:30120
+#EXTINF:-1 tvg-name="TRT" tvg-logo="http://dl.dropboxusercontent.com/u/40215219/ICON_TV/TRT.png",TRT
+udp://@225.1.1.161:30120
+#EXTINF:-1 tvg-name="TTV TV" tvg-logo="http://dl.dropboxusercontent.com/u/40215219/ICON_TV/TTV_TV.png",TTV TV
+udp://@225.1.2.188:30120
+#EXTINF:-1 tvg-name="TTV11" tvg-logo="http://dl.dropboxusercontent.com/u/40215219/ICON_TV/TTV11.png",TTV11
+udp://@225.1.1.130:30120
+#EXTINF:-1 tvg-name="TUYEN QUANG TV" tvg-logo="http://dl.dropboxusercontent.com/u/40215219/ICON_TV/TUYEN_QUANG_TV.png",TUYEN QUANG TV
+udp://@225.1.2.130:30120
+#EXTINF:-1 tvg-name="VGSSHOP" tvg-logo="http://dl.dropboxusercontent.com/u/40215219/ICON_TV/VGSSHOP.png",VGSSHOP
+udp://@225.1.1.67:30120
+#EXTINF:-1 tvg-name="VINH PHUC TV" tvg-logo="http://dl.dropboxusercontent.com/u/40215219/ICON_TV/VINH_PHUC_TV.png",VINH PHUC TV
+udp://@225.1.2.99:30120
+#EXTINF:-1 tvg-name="YENBAI TV" tvg-logo="http://dl.dropboxusercontent.com/u/40215219/ICON_TV/YENBAI_TV.png",YENBAI TV
+udp://@225.1.1.39:30120
+#EXTINF:-1 tvg-name="YTV" tvg-logo="http://dl.dropboxusercontent.com/u/40215219/ICON_TV/YTV.png",YTV
+udp://@225.1.1.212:30120
